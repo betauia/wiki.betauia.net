@@ -16,4 +16,4 @@ Uses a mix of upper- and lowercase letters. The total length always need to be d
 `echo "BETACTF{NO_DONT_USE_BASE64_IN_PROD}" | base64`
 
 ## Misc
-Determine the correct and original Base64 encoding from lowercased base64: [flattened-base64-recovery.py](../flattened-base64-recovery.py)
+Determine the correct and original Base64 encoding from lowercased base64: [flattened-base64-recovery.py](/flattened-base64-recovery.py)
