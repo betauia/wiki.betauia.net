@@ -1,6 +1,6 @@
 # Sikkerhet
 
-## Sikkerhetsgruppa i BETA
+## Sikkerhetsgruppa i BETA 
 Vi er en gjeng med studenter med en stor interesse  for sikkerhet, og har nylig startet opp en sikkerhetsgruppe under BETA _(linjeforreningen for data)_ dette er ment for at alle studenter kan være med å ta del i arrangementer, være med å arrangere ctf'er ([capture the flag](https://wiki.betauia.net/sikkerhet/ctf)) ....eller bare sitte på bluebox å ta en pils/brus og jobbe med ctf'er eller diskutere aktuelle emner.
 
 
