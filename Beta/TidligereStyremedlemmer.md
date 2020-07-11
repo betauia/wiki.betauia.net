@@ -199,8 +199,8 @@ Christian Trinh - Styremedlem
 ---
 
 ## 2018
+# Placeholder - Intill videre
 
-Placeholder - Intill videre
 <img src="assets/2018/placeholder.png" width="25%">
 
 Improperly - Leder
@@ -247,7 +247,8 @@ Improperly - Betadev leder
 Improperly - BetaLAN leder
 
 ## 2019
-Placeholder - Intill videre
+# Placeholder - Intill videre
+
 <img src="assets/2018/placeholder.png" width="25%">
 
 Improperly - Leder
