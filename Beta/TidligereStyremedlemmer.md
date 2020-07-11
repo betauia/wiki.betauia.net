@@ -1,113 +1,294 @@
-# Her kan du finne alle som har vært med i Beta styret gjennom årene
-
-<style>
-img[alt=downscale] { width: 200px; }
-</style>
+# Wall Of Fame
+> Her kan du finne alle som har vært med i Beta styret gjennom årene
 
 ## 2014
 
+<img src="assets/2014/Anders.jpg" width="25%">
 
-![downscale](assets/2014/Anders.jpg)
-* Anders Refsdal Olsen - Leder
-
----
-
-![downscale](assets/2014/Knut.jpg)
-* Knut Eivind Sandsmark -
+Anders Refsdal Olsen - Leder
 
 ---
 
-![downscale](assets/2014/Martin.jpg)
-* Martin Abrahamsen - BetaLAN ansvarlig
+<img src="assets/2014/Shahab.jpg" width="25%">
+
+Shahab Afsharipour - Nestleder
+
+---
+<img src="assets/2014/placeholder.png" width="25%">
+
+Huy Quy Vu - Økonomiansvarlig
 
 ---
 
-![downscale](assets/2014/Nina.jpg)
-* Nina Over - ???
+<img src="assets/2014/Nina.jpg" width="25%">
+
+Nina Over - Arrangement Ansvarlig
 
 ---
 
-![downscale](assets/2014/Shahab.jpg)
-* Shahab Afsharipour - ???
+<img src="assets/2014/Martin.jpg" width="25%">
+
+Martin Abrahamsen - BetaLAN ansvarlig
+
+---
+<img src="assets/2014/Tommy.jpg" width="25%">
+
+Tommy Johannessen - Pr. Ansvarlig
+
+---
+<img src="assets/2014/placeholder.png" width="25%">
+
+Kim-Leonhard Halvorsen Enger - Grafiker
+
+---
+<img src="assets/2014/Knut.jpg" width="25%">
+
+Knut Eivind Sandsmark - Styremedlem
 
 ---
 
-![downscale](assets/2014/Tommy.jpg)
-* Tommy Sandtorv Johannessen - Pr. ansvarlig
+<img src="assets/2014/placeholder.png" width="25%">
+
+Malene Danielsen - Styremedlem
+
+
 
 ## 2015
-![downscale](assets/2015/Anders.jpg)
-* Anders Refsdal Olsen - Leder
+<img src="assets/2015/Anders.jpg" width="25%">
+
+Anders Refsdal Olsen - Leder
 
 ---
 
-![downscale](assets/2015/Knut.jpg)
-* Knut Eivind Sandsmark - Nestleder
+<img src="assets/2015/Knut.jpg" width="25%">
+
+Knut Eivind Sandsmark - Nestleder
 
 ---
 
-![downscale](assets/2015/John.jpg)
-* John Føreland - Pr/web ansvarlig
+<img src="assets/2015/John.jpg" width="25%">
+
+John Føreland - Pr/web ansvarlig
 
 ---
 
-![downscale](assets/2015/Martin.jpg)
-* Martin Abrahamsen - BetaLAN ansvarlig
+<img src="assets/2015/Martin.jpg" width="25%">
+
+Martin Abrahamsen - BetaLAN ansvarlig
 
 ---
 
-![downscale](assets/2015/Sahand.jpg)
-* Sahand Johansen - Event ansvarlig
+<img src="assets/2015/Sahand.jpg" width="25%">
+
+Sahand Johansen - Event ansvarlig
 
 ---
 
-![downscale](assets/2015/Ørjan.jpg)
-* Ørjan Solli - Økonomi ansvarlig
+<img src="assets/2015/Ørjan.jpg" width="25%">
+
+Ørjan Solli - Økonomi/materiell ansvarlig
 
 ---
 
-![downscale](assets/2015/Jonathan.jpg)
-* Jonathan Luu - Styremedlem
+<img src="assets/2015/Jonathan.jpg" width="25%">
+
+Jonathan Luu - Styremedlem
 
 ---
 
-![downscale](assets/2015/Mohamed.jpg)
-* Mohamed Samatar - Styremedlem
+<img src="assets/2015/Mohamed.jpg" width="25%">
+
+Mohamed Samatar - Styremedlem
 
 ## 2016
-???
+<img src="assets/2017/MariusBjrni.jpg" width="25%">
+
+Marius Bjørni - Leder
+
+---
+
+<img src="assets/2014/Shahab.jpg" width="25%">
+
+Shahab Afsharipour - Nestleder
+
+---
+
+<img src="assets/2015/Mohamed.jpg" width="25%">
+
+Mohamed Samatar - Styremedlem
+
+---
+
+<img src="assets/2015/placeholder.png" width="25%">
+
+Celine Abigael Tomren - Arrangement ansvarlig
+
+---
+
+<img src="assets/2017/HansLau.jpg" width="25%">
+
+Hans Lau - Betalan Ansvarlig
+
+---
+
+<img src="assets/2014/Tommy.jpg" width="25%">
+
+Tommy Johannessen - Pr. Ansvarlig
+
+---
+<img src="assets/2015/placeholder.png" width="25%">
+
+Siri Dybdahl - Styremedled
+
+---
+
+<img src="assets/2015/placeholder.png" width="25%">
+
+Christer Mathisen - Styremedlem
+
+---
 
 ## 2017
-![downscale](assets/2017/ChristianTrinh.jpg)
-* Christian Trinh - ???
+<img src="assets/2017/MariusBjrni.jpg" width="25%">
+
+Marius Bjørni - Leder
 
 ---
 
-![downscale](assets/2017/EspenKalhagen.jpg)
-* Espen Kalhagen - ???
+<img src="assets/2017/OlavMarkus2.jpg" width="25%">
+
+Olav Markus Sjursø - Nestleder
 
 ---
 
-![downscale](assets/2017/HansLau.jpg)
-* Hans Lau - Betalan Ansvarlig
+<img src="assets/2017/MartinBrten2.jpg" width="25%">
+
+Martin Bråten - Økonomi Ansvarlig
 
 ---
 
-![downscale](assets/2017/MariusBjrni.jpg)
-* Marius Bjørni - ???
+<img src="assets/2017/placeholder.png" width="25%">
+
+Vebjørn Nystad - Pr/Web Ansvarlig
 
 ---
 
-![downscale](assets/2017/MartinBrten2.jpg)
-* Martin Bråten - Event Ansvarlig ?
+<img src="assets/2017/HansLau.jpg" width="25%">
+
+Hans Lau Borch - Betalan Ansvarlig
 
 ---
 
-![downscale](assets/2017/OlavMarkus2.jpg)
-* Olav Markus - ???
+
+<img src="assets/2017/EspenKalhagen.jpg" width="25%">
+
+Espen Kalhagen - Event ansvarlig
+
+---
+
+<img src="assets/2017/placeholder.png" width="25%">
+
+Vetle Ørstavik Hollund - Styremedlem
+
+---
+
+<img src="assets/2017/ChristianTrinh.jpg" width="25%">
+
+Christian Trinh - Styremedlem
+
+---
 
 ## 2018
 
-## 2019
+Placeholder - Intill videre
+<img src="assets/2018/placeholder.png" width="25%">
 
-## 2020
+Improperly - Leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+Improperly - Nestleder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Økonomi Ansvarlig
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Bedriftskomité leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Eventkomité leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - BetaSec leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Betadev leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - BetaLAN leder
+
+## 2019
+Placeholder - Intill videre
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+Improperly - Nestleder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Økonomi Ansvarlig
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Bedriftskomité leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Eventkomité leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - BetaSec leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - Betadev leder
+
+---
+
+<img src="assets/2018/placeholder.png" width="25%">
+
+Improperly - BetaLAN leder
