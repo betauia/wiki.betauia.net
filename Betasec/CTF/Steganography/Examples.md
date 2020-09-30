@@ -46,3 +46,6 @@ stegcracker <file> [<wordlist>]
 stegcracker image.jpg
 stegcracker image.jpg rockyou.txt
 ```
+
+## Secret Sauce
+```docker run -it --rm -v "$(pwd):/data" dominicbreuker/stego-toolkit /bin/bash```
