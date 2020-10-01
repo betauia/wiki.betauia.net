@@ -1,0 +1,5 @@
+# StegCracker ( brute-force utility to uncover hidden data inside files)
+```bash
+stegcracker <file>
+stegcracker <file> [<wordlist>]
+```
