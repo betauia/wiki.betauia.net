@@ -4,7 +4,7 @@
 Det er foreløpig ikke så mye her, kom inn etter Sommerferien så burde det være noe mer her :)
 
 # Spørsmål
-bedrift@betauia.net(Ingrid Louise Husevåg-Kristensen)sss
+bedrift@betauia.net(Ingrid Louise Husevåg-Kristensen)
 
 # Bedriftpresentasjoner
 

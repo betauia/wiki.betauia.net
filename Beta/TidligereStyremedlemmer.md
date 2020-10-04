@@ -208,6 +208,7 @@ Improperly - Leder
 ---
 
 <img src="assets/2018/placeholder.png" width="25%">
+
 Improperly - Nestleder
 
 ---
@@ -256,6 +257,7 @@ Improperly - Leder
 ---
 
 <img src="assets/2018/placeholder.png" width="25%">
+
 Improperly - Nestleder
 
 ---
@@ -293,3 +295,51 @@ Improperly - Betadev leder
 <img src="assets/2018/placeholder.png" width="25%">
 
 Improperly - BetaLAN leder
+
+## 2020
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Anders Godstad - Leder
+
+---
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Theodor Middleton - Nestleder
+
+---
+
+<img src="assets/2020/stian.jpg" width="25%">
+
+Stian Toften - Økonomi Ansvarlig
+
+---
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Ingrid Louise Husevåg-Kristensen - Bedriftskomité leder
+
+---
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Vegar Kristoffer - Eventkomité leder
+
+---
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Even Eilertsen - BetaSec leder
+
+---
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Even Eilertsen - Betadev leder
+
+---
+
+<img src="assets/2020/placeholder.png" width="25%">
+
+Adrian Risholm - BetaLAN leder

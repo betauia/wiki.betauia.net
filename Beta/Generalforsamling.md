@@ -1,5 +1,5 @@
 # Generalforsamling
-Betas medlemmer inviteres på generalforsamling en gang i året. Her blir det avholdt valg hvor medlemmene i Beta stemmer inn et fungerende styre som har et verv som spenner over et helt år. På generalforsamlingen blir også viktige punkter eller endringer organisasjonsmessig tatt opp, slik som for eksempel vedtektsendinger. Alle medlemmer har stemmerett og det er også kun de som får lov til å delta på en generalforsamling. På forhånd blir agendaliste sendt til alle medlemmer samt informasjon om hvordan generalforsamlingen blir avviklet. 
+Betas medlemmer inviteres på generalforsamling en gang i året. Her blir det avholdt valg hvor medlemmene i Beta stemmer inn et fungerende styre som har et verv som spenner over et helt år. På generalforsamlingen blir også viktige punkter eller endringer organisasjonsmessig tatt opp, slik som for eksempel vedtektsendinger. Alle medlemmer har stemmerett og det er også kun de som får lov til å delta på en generalforsamling. På forhånd blir agendaliste sendt til alle medlemmer samt informasjon om hvordan generalforsamlingen blir avviklet.
 
 Har du også tenkt å stille til valg så burde du ta en titt på
 
