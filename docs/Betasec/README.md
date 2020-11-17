@@ -1,4 +1,4 @@
-# Betasec
+# About
 > Skrive om BETASEC
 
 # UIACTF

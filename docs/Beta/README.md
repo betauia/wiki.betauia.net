@@ -1,4 +1,4 @@
-# Beta
+# About
 Beta er linjeforeningen for Dataingeniør Studenter ved Universitetet i Agder.
 Beta er en **non-profit organisasjon**. Det betyr at Beta driver **ikke for å tjene penger**, men heller bruker fortjenesten sin på dems medlemmer.
 Alle data ingeniør studenter ved UiA er automatisk medlem av Beta dersom en ikke aktivt melder seg ut.
