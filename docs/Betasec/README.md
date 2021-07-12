@@ -1,8 +1,11 @@
 # About
-> Skrive om BETASEC
+Betasec is the security focused committee under the student organization BETA which is for students studying computer engineering, cybersecurity, ICT Master, .etc at University Of Agder. We have bi-weekly meetings at discord or at campus Grimstad, where we discuss certain topics regarding security, but most important what we as students want to see, do we want to arrange events such as CTF's or have workshops in like certain CTF topics, or just have a movie night and watch old hacker movies.
+[Discord](https://discord.gg/qh4gxX6gTr)
 
 # UIACTF
-> Skrive om UIACTF
+UIACTF is the official CTF team for UiA. It's focused on that all students that study or just have a really intrest in Security are free to join.
+
+[uiactf.no](https://uiactf.no/)
 
 
 # What is CTF?
